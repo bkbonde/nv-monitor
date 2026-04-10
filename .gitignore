@@ -1,3 +1,4 @@
+*.pyc
 nv-monitor
 nv-monitor-dbg
 test_meminfo
